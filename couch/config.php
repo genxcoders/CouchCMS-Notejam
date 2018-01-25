@@ -171,7 +171,7 @@
         define( 'K_LOGO_LIGHT', 'GenXCoders-GXCPL-light.png' );
 
         // 99b. Company Logo on dark background  (Multiple of [<= 219] x 68 pixels. Needs to be placed within 'couch/theme/images/' folder)
-        define( 'K_LOGO_DARK', 'GenXCoders-GXCPL-dark.png' );
+        define( 'K_LOGO_DARK', 'GenXCoders-GXCPL-dark.PNG' );
 
         // 99c. Footer content (Company name and link)
         define( 'K_ADMIN_FOOTER', '<a href="http://www.gxcpl.com">GenXCoders Pvt. Ltd.</a>' );
