@@ -31,6 +31,37 @@
 <h3>Working Example of CouchCMS powered Notejam</h3>
 <ol>
   <li><a href="https://www.genxcoders.in/CouchCMS/Notejam" target="_blank">Frontend (Notejam Powered)</a></li>
-  <li><a href="https://www.genxcoders.in/CouchCMS/Notejam" target="_blank">Backend (CouchCMS Powered)</a></li>
+  <li><a href="https://www.genxcoders.in/CouchCMS/Notejam/couch" target="_blank">Backend (CouchCMS Powered)</a></li>
+</ol>
+<p>Login Credentials</p>
+<ol>
+  <li>
+    <strong>Admin</strong> Credentials
+    <ol>
+      <li>
+        Username: admin
+      </li>
+      <li>
+        Password: admin  
+      </li>
+      <li>
+        Please visit <a href="https://www.genxcoders.in/CouchCMS/Notejam/couch" target="_blank">Backend (CouchCMS Powered)</a> in case you can not see the CouchCMS Admin Panel.
+      </li>
+    </ol>
+  </li>
+  <li>
+    <strong>User</strong> Credentials
+    <ol>
+      <li>
+        Username: guest
+      </li>
+      <li>
+        Password: guest  
+      </li>
+    </ol>
+  </li>
+  <li>
+    Creation of new user account is not implemented. Account Settings is also disabled.  
+  </li>
 </ol>
 <p>Working Example hosted with &#10084; by <a href="https://www.gxcpl.com/" target="_blank">GenXCoders</a></p>
