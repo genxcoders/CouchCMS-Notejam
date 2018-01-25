@@ -39,13 +39,13 @@
     // MySQL settings. You need to get this info from your web host.
     // 4.
     // Name of the database
-    define( 'K_DB_NAME', 'notejam' );
+    define( 'K_DB_NAME', 'db_name' );
     // 5.
     // Database username
-    define( 'K_DB_USER', 'notejam' );
+    define( 'K_DB_USER', 'db_username' );
     // 6.
     // Database password
-    define( 'K_DB_PASSWORD', 'notejam' );
+    define( 'K_DB_PASSWORD', 'db_password' );
     // 7.
     // MySQL hostname (it will usually be 'localhost')
     define( 'K_DB_HOST', 'localhost' );
